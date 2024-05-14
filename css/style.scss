@@ -1,6 +1,6 @@
 $white: #ffffff;
 $black: #000000;
-$primary1: #4b208c;
+$primary1: #143e66;
 $primary2: #371e71;
 
 @mixin main-font {
@@ -189,7 +189,7 @@ a:focus {
     display: block;
     width: 35px;
     height: 4px;
-    background-color: #190734;
+    background-color: #143e66;
     margin: 7px 0;
     transition: all .3s;
   }
@@ -263,7 +263,7 @@ a:focus {
   }
 
   .img_container {
-    border: 7px solid #7b57b2;
+    border: 7px solid #143e66;
     border-radius: 100%;
     overflow: hidden;
 
@@ -357,7 +357,7 @@ a:focus {
         margin-top: 25px;
 
         h5 {
-          color: #2e0e5f;
+          color: #143e66;
           font-weight: 600;
           position: relative;
         }
@@ -365,7 +365,7 @@ a:focus {
 
       &:hover,
       &.active {
-        border-top: 15px solid #512a97;
+        border-top: 15px solid #143e66;
       }
 
     }
@@ -399,7 +399,7 @@ a:focus {
     flex-direction: column;
 
     .img-box {
-      border: 5px solid #7b57b2;
+      border: 5px solid #143e66;
       border-radius: 100%;
       overflow: hidden;
 
@@ -537,7 +537,7 @@ a:focus {
 
 /* info section */
 .info_section {
-  background-color: #190734;
+  background-color: #143e66;
   color: $white;
 
   h6 {
