@@ -489,16 +489,15 @@ a:focus {
 
   input {
     width: 100%;
-    border: none;
+    border: 4px solid #143e66;
     height: 50px;
     margin-bottom: 25px;
     padding-left: 25px;
     background-color: transparent;
-    outline: #143e66;
     color: #101010;
     -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.854);
-    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
-    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.779);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.671);
 
     &::placeholder {
       color: #737272;
