@@ -232,7 +232,7 @@ a:focus {
 .slider_section .detail_box h1 {
   color: #143e66;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .slider_section .detail_box p {
@@ -498,8 +498,8 @@ a:focus {
   background-color: transparent;
   outline: #143e66;
   color: #101010;
-  -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
-  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.438);
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.543);
 }
 
 .contact_section input::-webkit-input-placeholder {
