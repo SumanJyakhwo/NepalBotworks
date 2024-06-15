@@ -1,0 +1,11 @@
+/* AboutPage.css */
+.abouttext-heading {
+  color: #ff6347; /* Tomato color for headings */
+  font-weight: bold;
+  font-size: 1.9rem;
+}
+
+.text-dark {
+  color: #343a40; /* Dark grey text */
+  font-size: 1.1rem;
+}

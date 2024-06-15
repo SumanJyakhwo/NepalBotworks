@@ -1,0 +1,27 @@
+.accordion-button {
+  background-color: #f8f9fa;
+  color: #343a40;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  border: none; /* Remove the border */
+  border-radius: 0; /* Remove the border radius */
+}
+
+.accordion-button:hover {
+  background-color: #e9ecef;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #007bff;
+  background-color: #e2e6ea;
+}
+
+.accordion-body {
+  font-size: 0.9rem;
+  color: #6c757d;
+  padding: 1rem;
+}
+
+.accordion-item {
+  border: none; /* Remove the border */
+}
